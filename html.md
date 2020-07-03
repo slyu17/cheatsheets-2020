@@ -21,9 +21,15 @@ Some important props are:
 ### elements
 
 `<div>`: standard box with nothing pre-defined
+
 `<span>`: for a little text
+
 `<img>`: image... it can have a "src" and "alt"
+
 `<header>`, `<footer>`,`<main>`
+
 `<a href="google.com"> Link </a>`: link, It has an "href" prop
+
 `<button>`
+
 `<input>`: a text input
